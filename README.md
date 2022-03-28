@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Pika-Pikaboo
+- 👋 Hi, I’m Pika-Pikaboo
 - 👀 I’m interested in Programming
-- 🌱 I’m currently learning web development
+- 🌱 I’m currently learning web development and making RWD layouts for fun
 - 💞️ I’m looking to collaborate on programming projects
 - 📫 How to reach me ... stevinjack1ina1000@gmail.com
 
