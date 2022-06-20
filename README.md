@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Pika-Pikaboo
-- 👀 I’m interested in Programming
+- 👀 I’m interested in Programming and Designing web pages
 - 🌱 I’m currently learning web development and making RWD layouts for fun
 - 💞️ I’m looking forward to collaborate on web design and programming projects
 - 📫 Contact me at stevinjack1ina1000@gmail.com
